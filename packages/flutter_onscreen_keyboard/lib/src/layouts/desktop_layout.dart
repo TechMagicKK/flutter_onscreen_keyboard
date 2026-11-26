@@ -1,6 +1,6 @@
-import 'package:flutter/material.dart';
 import 'package:flutter_onscreen_keyboard/flutter_onscreen_keyboard.dart';
 import 'package:flutter_onscreen_keyboard/src/constants/action_key_type.dart';
+import 'package:material_ui/material_ui.dart';
 
 /// A complete QWERTY desktop keyboard layout excluding the number pad.
 ///

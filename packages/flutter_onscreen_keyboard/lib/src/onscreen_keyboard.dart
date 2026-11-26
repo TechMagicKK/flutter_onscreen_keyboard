@@ -1,15 +1,15 @@
 import 'dart:ui' as ui show BoxHeightStyle, BoxWidthStyle;
 
-import 'package:flutter/cupertino.dart';
+import 'package:cupertino_ui/cupertino_ui.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
-import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_onscreen_keyboard/flutter_onscreen_keyboard.dart';
 import 'package:flutter_onscreen_keyboard/src/constants/action_key_type.dart';
 import 'package:flutter_onscreen_keyboard/src/theme/onscreen_keyboard_theme.dart';
 import 'package:flutter_onscreen_keyboard/src/types.dart';
 import 'package:flutter_onscreen_keyboard/src/utils/extensions.dart';
+import 'package:material_ui/material_ui.dart';
 
 part 'onscreen_keyboard_controller.dart';
 part 'onscreen_keyboard_field_state.dart';

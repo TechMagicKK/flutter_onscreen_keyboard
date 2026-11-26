@@ -1,7 +1,7 @@
 // ignore_for_file: sort_constructors_first
 
-import 'package:flutter/material.dart';
 import 'package:flutter_onscreen_keyboard/src/models/keys.dart';
+import 'package:material_ui/material_ui.dart';
 
 /// Defines the visual styling for the onscreen keyboard widget.
 ///

@@ -1,6 +1,6 @@
-import 'package:flutter/material.dart';
 import 'package:flutter_onscreen_keyboard/flutter_onscreen_keyboard.dart';
 import 'package:flutter_onscreen_keyboard/src/widgets/keys.dart';
+import 'package:material_ui/material_ui.dart';
 
 /// A low-level on-screen keyboard widget that displays keys
 /// based on the given [KeyboardLayout].

@@ -16,8 +16,10 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
+  cupertino_ui: ^1.1.7
   flutter:
     sdk: flutter
+  material_ui: ^1.11.1
 
 dev_dependencies:
   flutter_test:
